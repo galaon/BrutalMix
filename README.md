@@ -1,7 +1,5 @@
 # 브루탈믹스 (BrutalMix) 폰트
-
 ![BrutalMix 견본](specimen.png)
-
 
 내가 쓰고싶어서 AI 시켜서 만든 밤티나는(중요) 폰트입니다.<br>
 이것저것 되는대로 '무자비하게 뒤섞어놔서' 브루탈믹스 입니다.
@@ -20,6 +18,7 @@
 | 05 | Heavy | `BrutalMix_05_Heavy.ttf` |
 | 06 | Black | `BrutalMix_06_Black.ttf` |
 
+
 ## 제작 방식
 
 이 폰트는 아래 4종의 오픈 폰트를 **글리프 단위로 병합**하여 만든 파생 폰트입니다.
@@ -32,6 +31,7 @@
 각 폰트의 정렬 기준(베이스라인·글자 높이)이 서로 달라, 나눔스퀘어 네오가
 자신의 라틴·부호를 배치한 위치를 기준으로 나머지 폰트를 맞춰 정렬했습니다.
 Black 웨이트는 Heavy를 균일 팽창하여 합성한 웨이트입니다.
+
 
 ## 라이선스
 
@@ -52,12 +52,14 @@ Black 웨이트는 Heavy를 균일 팽창하여 합성한 웨이트입니다.
 > - 원저작자들이 이 파생물을 보증·승인한 것은 아닙니다. 본 저장소는 원본을
 >   병합했다는 **사실을 출처로 밝히는 것**이며, 원저작자의 추천을 의미하지 않습니다.
 
+
 ## 사용한 원본 (출처)
 
 - 나눔스퀘어 네오 — © 2022 NAVER Corp., 제작 Sandoll Inc. — https://hangeul.naver.com/font
 - Rajdhani — © 2014 Indian Type Foundry — Google Fonts (OFL) — https://fonts.google.com/specimen/Rajdhani
 - Spoqa 한 산스 네오 — © 2020 Spoqa — https://spoqa.github.io/spoqa-han-sans/
 - Cairo — © 2009 The Cairo Project Authors — Google Fonts (OFL) — https://fonts.google.com/specimen/Cairo
+
 
 ## 면책
 
