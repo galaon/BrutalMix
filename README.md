@@ -55,9 +55,9 @@ Black 웨이트는 Heavy를 균일 팽창하여 합성한 웨이트입니다.
 ## 사용한 원본 (출처)
 
 - 나눔스퀘어 네오 — © 2022 NAVER Corp., 제작 Sandoll Inc. — https://hangeul.naver.com/font
-- Rajdhani — © 2014 Indian Type Foundry — Google Fonts (OFL)
+- Rajdhani — © 2014 Indian Type Foundry — Google Fonts (OFL) — https://fonts.google.com/specimen/Rajdhani
 - Spoqa 한 산스 네오 — © 2020 Spoqa — https://spoqa.github.io/spoqa-han-sans/
-- Cairo — © 2009 The Cairo Project Authors — Google Fonts (OFL)
+- Cairo — © 2009 The Cairo Project Authors — Google Fonts (OFL) — https://fonts.google.com/specimen/Cairo
 
 ## 면책
 
