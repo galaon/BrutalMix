@@ -1,10 +1,14 @@
 # 브루탈믹스 (BrutalMix) 폰트
 
+![BrutalMix 견본](specimen.png)
+
+
 내가 쓰고싶어서 AI 시켜서 만든 밤티나는(중요) 폰트입니다. 이것저것 되는대로 '무자비하게 뒤섞어놔서' 브루탈믹스 입니다.
 
-한글 : 나눔스퀘어 / 영문 : Rajdhani (일부 글자만 Cairo) / 문장부호 : Spoqa 한 산스 네오
+한글 : [나눔스퀘어 네오](https://hangeul.naver.com/font) / 영문 : [Rajdhani](https://fonts.google.com/specimen/Rajdhani) (일부 글자만 [Cairo](https://fonts.google.com/specimen/Cairo)) / 문장부호 : [Spoqa 한 산스 네오](https://spoqa.github.io/spoqa-han-sans/)
 
-원 폰트의 저작권은 원 저작자에게 있습니다. 변경 및 가공 라이센스를 제공해주신 원 저작자 분들에게 감사의 말씀을 드립니다.
+원 폰트의 저작권은 원 저작자에게 있습니다.
+변경 및 가공 라이센스를 제공해주신 원 저작자 분들에게 감사의 말씀을 드립니다.
 
 | 번호 | 웨이트 | 파일 |
 |---|---|---|
@@ -14,10 +18,6 @@
 | 04 | ExtraBold | `BrutalMix_04_ExtraBold.ttf` |
 | 05 | Heavy | `BrutalMix_05_Heavy.ttf` |
 | 06 | Black | `BrutalMix_06_Black.ttf` |
-
-## 견본
-
-![BrutalMix 견본](specimen.png)
 
 ## 제작 방식
 
