@@ -8,20 +8,16 @@
 
 | 번호 | 웨이트 | 파일 |
 |---|---|---|
-| 01 | Light | `fonts/BrutalMix_01_Light.ttf` |
-| 02 | Regular | `fonts/BrutalMix_02_Regular.ttf` |
-| 03 | Bold | `fonts/BrutalMix_03_Bold.ttf` |
-| 04 | ExtraBold | `fonts/BrutalMix_04_ExtraBold.ttf` |
-| 05 | Heavy | `fonts/BrutalMix_05_Heavy.ttf` |
-| 06 | Black | `fonts/BrutalMix_06_Black.ttf` |
+| 01 | Light | `BrutalMix_01_Light.ttf` |
+| 02 | Regular | `BrutalMix_02_Regular.ttf` |
+| 03 | Bold | `BrutalMix_03_Bold.ttf` |
+| 04 | ExtraBold | `BrutalMix_04_ExtraBold.ttf` |
+| 05 | Heavy | `BrutalMix_05_Heavy.ttf` |
+| 06 | Black | `BrutalMix_06_Black.ttf` |
 
 ## 견본
 
-![BrutalMix 견본](images/specimen.png)
-
-- **통합 파일**: `fonts/BrutalMix.ttc` — 6웨이트가 하나에 담긴 컬렉션.
-  일러스트레이터·프리미어·애프터이펙트 등 데스크톱 앱용.
-- **웹/Remotion 등**: TTC 미지원 환경에서는 개별 `.ttf`를 사용하세요.
+![BrutalMix 견본](specimen.png)
 
 ## 제작 방식
 
