@@ -1,6 +1,8 @@
 # 브루탈믹스 (BrutalMix) 폰트
 ![BrutalMix 견본](specimen.png)
 
+## [즉시 다운로드](https://github.com/galaon/BrutalMix/releases/latest/download/BrutalMix.zip)
+
 내가 쓰고싶어서 AI 시켜서 만든 밤티나는(중요) 폰트입니다.<br>
 이것저것 되는대로 '무자비하게 뒤섞어놔서' 브루탈믹스 입니다.
 
