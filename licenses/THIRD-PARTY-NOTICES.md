@@ -1,6 +1,6 @@
 # 사용 원본 폰트 저작권 및 라이선스 고지
 
-BrutalMix(브루탈믹스)는 아래 4종의 오픈 폰트를 병합·수정하여 제작한 **파생 폰트**입니다.
+BrutalMix(브루탈믹스)는 아래 5종의 오픈 폰트를 병합·수정하여 제작한 **파생 폰트**입니다.
 각 원본의 저작권 문구는 폰트 파일의 name 테이블에서 추출한 실제 값입니다.
 아래 폰트는 모두 자유로운 수정·병합·재배포를 허용하되, **폰트 파일 자체의 유료 판매는 금지**됩니다.
 
@@ -59,15 +59,29 @@ BrutalMix(브루탈믹스)는 아래 4종의 오픈 폰트를 병합·수정하�
 
 ---
 
+## 5. Noto Sans KR (한자 1,816자 · 그리스·키릴 문자 · 가나)
+
+- **Copyright** (c) 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.
+- **라이선스**: SIL Open Font License, Version 1.1
+- **사용 범위** (v1.7.3~): 한자 전부를 Noto Sans KR(한국 자형)에서 가져왔습니다.
+  한문 교육용 기초한자 1,800자 + 뉴스 보충 7자 + 완성형(KS X 1001) 이체 코드 9자(强 凉 産 姉 絶 豊 畵 隣 秘) = 1,816자.
+  가변 굵기에서 획 두께가 BrutalMix 한글 획(ㅣ·ㅡ)보다 살짝 가는 굵기를 골라 그만큼만 굵히고 크기·위치를 맞췄습니다.
+  그리스 문자 49자(완성형 48자 + ς)·키릴 문자 66자·히라가나·가타카나 187자와 수학 기호 ∆ ◊도 Noto Sans KR에서 가져왔습니다.
+  그리스·키릴은 영문 획(l·H) 두께에, 가나는 한자와 같은 기준으로 맞췄습니다.
+- **예약 이름**: 'Source'는 예약 폰트 이름(RFN)이므로 파생 폰트 이름에 사용하지 않았습니다.
+- **배포처**: https://github.com/notofonts/noto-cjk · Google Fonts (ofl/notosanskr)
+
+---
+
 ## 라이선스 전문
 
 - SIL Open Font License 1.1 전문: `licenses/OFL-1.1.txt`
-- Rajdhani / Spoqa / Cairo는 위 OFL 1.1의 적용을 받습니다.
+- Rajdhani / Spoqa / Cairo / Noto Sans KR은 위 OFL 1.1의 적용을 받습니다.
 - 나눔스퀘어 네오는 네이버 글꼴 라이선스(위 고지문)를 따릅니다.
 
 ## 상표(RFN) 관련 확인 사항
 
 각 폰트 원저작자가 OFL의 "Reserved Font Name(예약 폰트 이름)"으로 무엇을 지정했는지는
 **배포 시점에 각 배포처의 OFL 원문(사본에 포함된 저작권 헤더)에서 직접 재확인**하시기 바랍니다.
-본 파생물은 원본 이름(NanumSquare/Nanum, Rajdhani, Spoqa, Cairo)을 폰트 이름·내부
+본 파생물은 원본 이름(NanumSquare/Nanum, Rajdhani, Spoqa, Cairo, Noto, Source)을 폰트 이름·내부
 name 테이블에 사용하지 않고 독립 이름 "BrutalMix / 브루탈믹스"만 사용합니다.
