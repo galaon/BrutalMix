@@ -27,7 +27,7 @@
 2. TTF 파일 6개를 설치합니다.
 3. 사용하던 프로그램을 다시 실행합니다. (웹 Figma는 Figma Agent도 다시 실행)
 
-웹에서 쓸 때는 다운로드한 zip 안 `web` 폴더의 WOFF2 파일과 `brutalmix.css`를 사용하면 됩니다.
+웹에서 쓸 때는 [최신 릴리스](https://github.com/galaon/BrutalMix/releases/latest)의 `BrutalMix-web.zip`(WOFF2 파일과 `brutalmix.css`)을 사용하면 됩니다.
 
 **프로그램에서 보이는 이름**
 - 6개 웨이트가 하나의 패밀리로 묶여 있습니다. 패밀리를 고른 뒤 `01 Light` ~ `06 Black` 중에서 웨이트를 선택합니다.
